@@ -1,0 +1,113 @@
+{
+  "totalRequested": 10,
+  "totalCreated": 10,
+  "totalFailed": 0,
+  "createdAt": "2025-08-22T04:15:56.511Z",
+  "config": {
+    "prefix": "yl",
+    "refCode": "E9418U",
+    "delay": 5000
+  },
+  "accounts": [
+    {
+      "handle": "ylpoorer9.near",
+      "publicKey": "ed25519:5AokGqrcXGMNvNTHkD1sD5MFcT2gez3wyP6xW8eCBHPJ",
+      "secretKey": "9femt36XR9WmLozF1XD4NZXEP1oFNeF5H8n3LEU2VtRNdAiMDgpkLYhiXhdSB9UeLFgJBp79HpCE8kJ1PuepA9r",
+      "relayerToken": "4kMvsLz1gCxQ6rsX9zYTmDrC6MvQkZiXrnyc8q2h4fGR",
+      "createdAt": "2025-08-22T04:13:31.690Z",
+      "referralCode": "E9418U",
+      "verified": true,
+      "status": "VERIFIED"
+    },
+    {
+      "handle": "ylufo89.near",
+      "publicKey": "ed25519:FQdvCL5zm9Ug1fJBoGrzkxVJrcCMePjwCuCn9me5rVi4",
+      "secretKey": "39f8xHCdm5esYwfQjQpN3oqmJg1tBbCXVqDE1Lvgt7Yiz7FhvhWJErPJTPdyQ7SwyMcj2o5UojvMp8F8sW765KbS",
+      "relayerToken": "5ZTTvSDMXPxnZVioWqGz69f2ZRMDUf1bNA9dYCWazjtc",
+      "createdAt": "2025-08-22T04:13:44.474Z",
+      "referralCode": "E9418U",
+      "verified": true,
+      "status": "VERIFIED"
+    },
+    {
+      "handle": "ylhardq9.near",
+      "publicKey": "ed25519:9RdU6wSUa4phP3kP2JpRkvUkBBk6an2RZJBVFP6oGPvc",
+      "secretKey": "64qNJZiXLQGhfD1Voac8bdjyY97Pu61E3hZoiHLTRYDrh1g6rhdmpePPVV1buKP2ss7yg6UFiYveurJXS4ov8428",
+      "relayerToken": "3ej6uHfx6PPQeaMvTDtYAYojQKVBGvpzhUZuajzijmRN",
+      "createdAt": "2025-08-22T04:14:02.421Z",
+      "referralCode": "E9418U",
+      "verified": true,
+      "status": "VERIFIED"
+    },
+    {
+      "handle": "ylpure27.near",
+      "publicKey": "ed25519:Fjhxoaepccr9FworaKZt1tfcEUtKp7RX8si3rBmBFTSV",
+      "secretKey": "q8hjaLs7TPaLCH9VNnTVMEHemp8EbvHWT8A4GbZyw5dPPaXSvCb9p5cVs1hEeu3fP7KFypRdaHUUUwE6CdW6C9B",
+      "relayerToken": "BBmTaqKBx12a8eKCrkjaA93GPHHGGkrjXrR5Zcw6jPXA",
+      "createdAt": "2025-08-22T04:14:15.558Z",
+      "referralCode": "E9418U",
+      "verified": true,
+      "status": "VERIFIED"
+    },
+    {
+      "handle": "ylbitter16.near",
+      "publicKey": "ed25519:6T2ue6MLW6AcuPP3J3hWvfsLaib5fzpZ72vpCbcdXXMt",
+      "secretKey": "Zo3tFFhiuXx7dt74pJna7EGB3oH5u15WZRdavNqpgCXamZwJ11WrYrtFVjswW3Rzkt5anVpMWMqkiuRgUJ1iabc",
+      "relayerToken": "4LCyJxtChbHf82rqHUcUBabwjWpNq8ZQwzp3CbPHS3Xn",
+      "createdAt": "2025-08-22T04:14:29.046Z",
+      "referralCode": "E9418U",
+      "verified": true,
+      "status": "VERIFIED"
+    },
+    {
+      "handle": "yl5501.near",
+      "publicKey": "ed25519:AZcLMLKR9g7BQQaHwfGN7vddXnobSV4Bog6B7jNBnF6T",
+      "secretKey": "5wQJzNonshrudX4fRyKZycb6wKk8AVGgThRxPt9yJAYb7dTyFdspYuoXrjimL1r4zAnUGvCg2cPNjS5BnZxucRVm",
+      "relayerToken": "8muCBd34UKTf5DGdHzsoU1mGprSxD45FaUpr1bdKwZYM",
+      "createdAt": "2025-08-22T04:14:42.650Z",
+      "referralCode": "E9418U",
+      "verified": true,
+      "status": "VERIFIED"
+    },
+    {
+      "handle": "ylbookic1.near",
+      "publicKey": "ed25519:8imkuZYctW1XY9uEQm1xeC4DVMKdHUGdtPRT3V8FbVky",
+      "secretKey": "7u91J9sK8gi8MHqVDcQLv36y8upMBBRKQGEwwCnGkjSVAAC7CfLunL3eoPStmytDhNKsNEzjY3vjDPcRhrC6Fwj",
+      "relayerToken": "J2kuzN4ka7MpERniQhfdaCRaUFKyqHiC68E4BhdMyteL",
+      "createdAt": "2025-08-22T04:15:12.683Z",
+      "referralCode": "E9418U",
+      "verified": true,
+      "status": "VERIFIED"
+    },
+    {
+      "handle": "yl69samurai.near",
+      "publicKey": "ed25519:D8atmXe6w9dznPPhtYHZFDUrFSfC2sj7XoUW7PwKfqV8",
+      "secretKey": "3H2dFbdE6ELTgjEJd7UTCX3mg7xafByuUd9zogor2rSB71HjHV5hrNeprtHforWbNwKM38gNvGZ8sE98RCkj3aE",
+      "relayerToken": "ENkSv94Pym7KwdeCSpBQwwDytjYrDF7tyL8jJ4Se6eC7",
+      "createdAt": "2025-08-22T04:15:25.820Z",
+      "referralCode": "E9418U",
+      "verified": true,
+      "status": "VERIFIED"
+    },
+    {
+      "handle": "ylmeteorq0.near",
+      "publicKey": "ed25519:JuLPr8YhEQvMHaqK9pwts8cjvswbVMwbUcd3rPXBqiR",
+      "secretKey": "SY1jZWdmHAsxvSitDJTBHMMVUvNrJSibyq3ZNQMHsTMqbKMzE42fr6KX9cEAm3vtL3tcPZs4bavtMFW6SHWKoMs",
+      "relayerToken": "G41kWPaoPJBQ716YZdBisjJ5FC1SevZHLo1uA5JWS3Yh",
+      "createdAt": "2025-08-22T04:15:38.378Z",
+      "referralCode": "E9418U",
+      "verified": true,
+      "status": "VERIFIED"
+    },
+    {
+      "handle": "ylduckmeteor.near",
+      "publicKey": "ed25519:F2JRYxHqih6HxRh6d9YQe3qvK1TWXrTDugvmFLKuxXRL",
+      "secretKey": "4UTiyeUtfAXcXaEQQ9cnRDL3z6wY8ftt5ikv9QEpQw8sfZoTwgmpaSpy88aLFqeFUR13jJZui1oraVqQTun25cpr",
+      "relayerToken": "FWVaeeHajNHo58WKfRtWLFm7BU2AkXPWccDSdHha6phs",
+      "createdAt": "2025-08-22T04:15:55.209Z",
+      "referralCode": "E9418U",
+      "verified": true,
+      "status": "VERIFIED"
+    }
+  ]
+}
